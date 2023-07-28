@@ -1,0 +1,9 @@
+*{
+    background-color: rgb(109, 238, 255);
+}
+
+header,
+footer{
+    align-items: center;
+    text-align: center;
+}
